@@ -1,6 +1,10 @@
+
+;
 public class Test {
     public static void main(String[] args) {
+
         System.out.println("Haiiii, inin baris kode pertamaa");
         System.out.println("Jeremy doank");
+        System.out.println("Nabel jahat");
     }
 }
